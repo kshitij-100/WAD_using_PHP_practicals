@@ -18,7 +18,7 @@
    }
 
    echo "<br><br>";
-   echo "If-Else statement";
+   echo "Switch statement";
    echo "<br>";
    $age = 36;
    
