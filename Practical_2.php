@@ -25,18 +25,18 @@
    switch($age)
    {
      case 12:
-        echo "You are 12 years old";
+        echo "You are 12 years old boy!";
         break;
      case 24:
-        echo "You are 24 years old";
+        echo "You are 24 years old boy!";
         break;
      case 36:
-        echo "You are 36 years old";
+        echo "You are 36 years old man!";
         break;
      case 48:
-        echo "You are 48 years old";
+        echo "You are 48 years old man!";
         break;
      default:
-     echo "You are 24 years old";
+        echo "Invalid input!";
    } 
 ?>
